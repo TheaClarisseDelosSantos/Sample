@@ -1,14 +1,6 @@
-"Hide Column and 
-Row 9",2021 Health Care Cost Information System (HCCIS) Data,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Health Economics Program,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Minnesota Department of Health,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Current as of 2-6-2023,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,"Minnesota Hospitals Admissions by Care Unit of the Hospital, Fiscal Year ",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,Acute Care Admissions5,,,,,,,,,,,,,Non-Acute Care Admissions6,,,,,Total
+,,,,,,,Acute Care Admissions5,,,,,,,,,,,,,,,,Non-Acute Care Admissions6,,,,,Total
 HCCIS ID,Hospital Name,Affiliation,City,County,Report Year End Date,CAH1,Licensed Beds2,Licensed Bassinets3,Available Beds4,Med/Surg Admissions,Cardiac Admissions,Chemical Dependency Admissions,Mental Health (Psychiatric) Admissions,Neurology Admissions,Neonatal (exclude routine nursery) Admissions,Obstetrics Admissions,Orthopedic Admissions,Rehabilitation Admissions,Other Acute Care Specialty Admissions,Total Billing Acute Care Admissions,balancing account (discharge data to amt provided by hospital in 4320),Total Acute Care Admissions (ties to 4320),Routine Nursery Admissions (Births),Swing Bed Admissions (ties to 4324),"Subacute/
 Transitional Care Admissions (ties to 4327)",Other Non-Acute Care Admissions,Total Non-Acute and Nursery Care Admissions,Total Acute and Non-Acute Care Hospital Admissions (4320+7180)
-,,,,,,,(#4504),(#4531),(#7082),(# 7691),(# 7268),(# 4304),(# 4307),(# 7274),(# 4334),(# 7523),(# 7271),(# 4309),(# 7175),(# 8070),(# 8032),(# 8071),(# 4331),(# 7177),(# 7178),(# 7179),(# 7180),(# 7176)
 3,Essentia Health Ada,Essentia Health,Ada,Norman,06/30/2021,Yes,14,0,14,11,1,,,1,,,,,5,18,6,24,,17,,,17,41
 4,Riverwood Healthcare Center,No Affiliation,Aitkin,Aitkin,09/30/2021,Yes,25,6,25,421,102,9,1,31,25,69,65,,54,777,-9,768,64,15,,,79,847
 100,Mayo Clinic Health System - Albert Lea and Austin**,Mayo Clinic,Albert Lea,Freeborn,12/31/2021,No,159,22,84,"1,573",345,97,483,123,224,664,148,,230,"3,887",-217,"3,670",641,,,,641,"4,311"
@@ -148,21 +140,3 @@ Transitional Care Admissions (ties to 4327)",Other Non-Acute Care Admissions,Tot
 186,M Health Fairview Lakes Medical Center,M Health Fairview,Wyoming,Chisago,12/31/2021,No,61,12,55,"1,363",210,37,6,112,281,543,167,,191,"2,910",-215,"2,695",486,,,,486,"3,181"
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,TOTAL,,"16,531","1,820","11,580","189,124","61,332","11,305","30,235","33,728","31,672","64,856","43,396",524,"41,674","507,846","-36,572","471,274","61,878","4,174","1,037","1,743","68,832","540,106"
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,*Mercy Hospital in Coon Rapids includes all data from the hospitals previously under separate licenses (2016 and prior) as Mercy Hospital - Coon Rapids and Unity Hospital - Fridley. ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,"**Mayo Clinic Health System - Albert Lea includes all data from the hospitals previously under separate licenses (2014 and prior) as Mayo Clinic Health 
-
-System - Albert Lea and Mayo Clinic Health System - Austin.",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,"***Mayo Clinic Hospital - Rochester includes all data from the hospitals previously under separate licenses (2013 and prior) as Mayo Clinic Methodist 
-
-Hospital and Saint Marys Hospital.",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,"****Children's Health Care dba Children's Hospitals and Clinics of Minnesota includes all data from the hospitals previously under separate licenses 
-
-(2010 and prior) as Children's Health Care - St. Paul and Children's Health Care - Minneapolis.",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,"1 Critical Access Hospital (CAH) is a Federal designation for small, rural hospitals that meet a specific criteria.",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,"2 The number of beds licensed by the Department of Health, under Minnesota Statutes, sections 144.50 to 144.58.",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,"3 The number of bassinets licensed by the Department of Health, under Minnesota Statutes, sections 144.50 to 144.58.",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,4 Available Beds are the number of acute care beds that are immediately available for use or could be brought online within a short period of time.,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,5 The number of patients hospitalized for a short duration that receive intensive diagnosis or management services.,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,6 The number of patients formally admitted to the facility for care that falls below that of acute care.,,,,,,,,,,,,,,,,,,,,,,,,,,,
